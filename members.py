@@ -75,13 +75,15 @@ member_data = {
         ),
     },
     "Nguyễn Thị Thúy Hồng": {
-        "role": "Vận hành, Công đoàn & Chấm công",
+        "role": "Vận hành MMS, Công đoàn & Chấm công",
         "icon": "🌟",
         "trait": "Trùm hậu cần - Người chăm lo cho cả phòng",
         "alias": "hồng",
         "wish": (
             "Chị Hồng một tay cân cả công đoàn, hậu cần lẫn chuyện chấm công"
-            " mỗi tháng, nghe tới tên chị là thấy 'sự sống' của cả phòng ở đó"
+            " mỗi tháng, đã vậy còn thêm quả gánh luôn vận hành chương trình MMS"
+            " mượt mà không vết xước "
+            " nghe tới tên chị là thấy 'sự sống' của cả phòng ở đó"
             " rồi 😄 Cảm ơn chị đã luôn chu đáo lo cho anh em từ những điều nhỏ"
             " nhất. Chúc chị 20/10 nhận lại gấp đôi, gấp ba lượng tình cảm và sự"
             " nuông chiều mà chị đã dành cho mọi người ạ!"
