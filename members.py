@@ -82,7 +82,7 @@ member_data = {
         "wish": (
             "Chị Hồng một tay cân cả công đoàn, hậu cần lẫn chuyện chấm công"
             " mỗi tháng, đã vậy còn thêm quả gánh luôn vận hành chương trình MMS"
-            " mượt mà không vết xước "
+            " luôn ở đó để đảm bảo chương trình mượt mà "
             " nghe tới tên chị là thấy 'sự sống' của cả phòng ở đó"
             " rồi 😄 Cảm ơn chị đã luôn chu đáo lo cho anh em từ những điều nhỏ"
             " nhất. Chúc chị 20/10 nhận lại gấp đôi, gấp ba lượng tình cảm và sự"
