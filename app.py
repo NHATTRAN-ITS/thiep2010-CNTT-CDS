@@ -17,6 +17,16 @@ BOOT_LINE_MS = 520
 BOOT_HOLD_MS = 900
 
 st.set_page_config(page_title="Bản Giao Hưởng Số 20/10", page_icon="🌸", layout="wide")
+hide_streamlit_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    .viewerBadge_container__1QSob {display: none !important;}
+    div[data-testid="stStatusWidget"] {visibility: hidden;}
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 validate_members(member_data)
 
 PALETTES = [
